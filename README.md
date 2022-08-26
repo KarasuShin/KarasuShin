@@ -5,7 +5,7 @@
 
 - ⚡ I love anime and manga
 
-- 📫 How to reach me **KarasuShin@gmail.com**
+- 📫 How to reach me **KarasuShing@gmail.com**
 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/></code>
